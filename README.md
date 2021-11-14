@@ -16,30 +16,3 @@ This is my first mod. It is a project of learning and growth.
 3) Create a shortcut of the game exe, or activate additional command line arguments in BattleNet launcher
 4) Add `-mod journey -txt`
 5) Enjoy!
-
-## Changes
-Slightly increased running speed	9 -> 10
-
-Reduced stamina drain				20 -> 10
-
-Improved toHit factor
-
-Key added to starter items
-
-### Class			Str/Dex/Int/Vit			      Skill
-Amazon   20   35   15  20     jab
-
-Sorceress     15  20  45  10 	  charged bolt
-
-Necromancer   15  20  40  15 	  teeth
-
-Paladin       25  30  15  20 	  smite
-
-Barbarian     30  25  10  25 	  bash
-
-Druid         15  25  30  20 	  firestorm
-
-Assasin       20  30  20  20 	  fireblast
-
-## Mentions
-Thanks to `Offline-Mod by MilesTeg81`		https://www.nexusmods.com/diablo2resurrected/mods/28
