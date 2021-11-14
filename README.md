@@ -13,7 +13,7 @@ This is my first mod. It is a project of learning and growth.
 ## Install
 1) Download `journey.mpq` folder and find d2r installation folder. 
 2) Make a directory called "mods" and a a folder "journey" like this -> `D2R/mods/journey/journey.mpq`
-3) Create a shortcut of the game exe, or activate extra parameters in BattleNet launcher
+3) Create a shortcut of the game exe, or activate additional command line arguments in BattleNet launcher
 4) Add `-mod journey -txt`
 5) Enjoy!
 
