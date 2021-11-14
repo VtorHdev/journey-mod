@@ -5,10 +5,10 @@
 [![Nexusmod](https://img.shields.io/badge/NEXUS-MOD-red?style=flat-square)](https://github.com/vtorhdev/Journey-D2RMod)
 [![Follow](https://img.shields.io/github/followers/vtorhdev.svg?label=Follow&style=social&maxAge=2592000)]()
 
-Journey is a modding proyect for Diablo II Resurrected that modifies several aspects of the game, mostly numerical and visual.
-
 ## Intro
-This is my first mod. It is a project of learning and growth.
+[WIP] My project to turn the singleplayer mode into something much more adapted to play alone, merging the original Diablo experience with a new way of playing. 
+
+It is my first mod and a long-term idea, so I will add changes and additions over time, as I learn.
 
 ## Install
 1) Download `journey.mpq` folder and find d2r installation folder. 
@@ -16,3 +16,9 @@ This is my first mod. It is a project of learning and growth.
 3) Create a shortcut of the game exe, or activate additional command line arguments in BattleNet launcher
 4) Add `-mod journey -txt`
 5) Enjoy!
+
+## Features
+`Characters Stats`
+
+New initial skills | Tweaked initial stats | Increased RunVelocity | Reduced StaminaDrain | Better ToHit Factor | Added "key" to starter items
+
