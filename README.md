@@ -20,14 +20,3 @@ It is my first mod and a long-term idea, so I will add changes and additions ove
 3) Create a shortcut of the game exe, or activate additional command line arguments in BattleNet launcher
 4) Add `-mod journey -txt`
 5) Enjoy!
-
-
-[![Journey Features](https://i.ibb.co/H4963By/journey-feat-1.png)]()
-
-Characters Stats
-* New initial skills
-* Tweaked initial stats
-* Increased RunVelocity
-* Reduced StaminaDrain
-* Better ToHit Factor
-* Added "key" to starter items
