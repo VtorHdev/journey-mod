@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/VERSION-0.0-brown?style=flat-square)](https://github.com/vtorhdev/Journey-D2RMod)
 [![GitHub Stars](https://img.shields.io/github/stars/vtorhdev/Journey-D2RMod?label=STARS&style=flat-square)](https://github.com/vtorhdev/Journey-D2RMod/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/vtorhdev/Journey-D2RMod?label=ISSUES&style=flat-square)](https://github.com/vtorhdev/Journey-D2RMod/issues)
-[![Nexusmod](https://img.shields.io/badge/NEXUS-MOD-red?style=flat-square)](https://github.com/vtorhdev/Journey-D2RMod)
+[![Nexusmod](https://img.shields.io/badge/NEXUS-MOD-red?style=flat-square)](https://www.nexusmods.com/diablo2resurrected/mods/117)
 [![Follow](https://img.shields.io/github/followers/vtorhdev.svg?label=Follow&style=social&maxAge=2592000)]()
 
 [![Journey Intro](https://i.ibb.co/2kTgtBn/journey-intro-1.png)]()
