@@ -213,9 +213,12 @@ Gem Downgrade	1			0					1	gfw							gcw
 Gem Downgrade	1			0					1	gsw							gfw																																																																																							
 Gem Downgrade	1			0					1	glw							gsw																																																																																							
 Gem Downgrade	1			0					1	gpw							glw																																																																																							
-Organ + Heroes	1			0					2	dhn	soh						Pandemonium Finale Portal																																																																																							
-Organ + Heroes	1			0					2	bey	soh						Pandemonium Finale Portal																																																																																							
-Organ + Heroes	1			0					2	mbr	soh						Pandemonium Finale Portal																																																																																							
-Reroll unique	1			0					2	any,uni	soh						useitem,uni,reg																																																																																							
-Reroll set	1			0					2	any,set	soh						useitem,set,reg																																																																																							
+Organ + Heroes	1			0					2	dhn	std						Pandemonium Finale Portal																																																																																							
+Organ + Heroes	1			0					2	bey	std						Pandemonium Finale Portal																																																																																							
+Organ + Heroes	1			0					2	mbr	std						Pandemonium Finale Portal																																																																																							
+Reroll unique armors	1			0					2	armo,uni	std						useitem,reg																																																																																							
+Reroll unique weapons	1			0					2	weap,uni	std						useitem,reg																																																																																							
+Reroll unique rings	1			0					2	ring,uni	std						useitem,reg																																																																																							
+Reroll unique amulets	1			0					2	amul,uni	std						useitem,reg																																																																																							
+Reroll set all	1			0					2	any,set	std						useitem,reg																																																																																							
 Make ethereal	0																																																																																																							
