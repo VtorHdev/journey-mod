@@ -8,7 +8,12 @@
 
 [![Journey Intro](https://i.ibb.co/2kTgtBn/journey-intro-1.png)]()
 
-Update: Now that D2RMM exists, the project is abandoned, as it has changed the paradigm for modding in D2R.
+Update: Now that D2RMM exists, the project is abandoned, as it has changed the paradigm for modding in D2R. It has been an interesting learning process.
+To have the reference, I leave open everything I have done so far, which you can see below:
+
+
+
+
 
 [Abandoned] My project to turn the singleplayer mode into something much more adapted to play alone, merging the original Diablo experience with a new way of playing. 
 
