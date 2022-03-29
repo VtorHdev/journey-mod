@@ -8,7 +8,9 @@
 
 [![Journey Intro](https://i.ibb.co/2kTgtBn/journey-intro-1.png)]()
 
-[WIP] My project to turn the singleplayer mode into something much more adapted to play alone, merging the original Diablo experience with a new way of playing. 
+Update: Now that D2RMM exists, the project is abandoned, as it has changed the paradigm for modding in D2R.
+
+[Abandoned] My project to turn the singleplayer mode into something much more adapted to play alone, merging the original Diablo experience with a new way of playing. 
 
 It is my first mod and a long-term idea, so I will add changes and additions over time, as I learn.
 
